@@ -59,3 +59,5 @@ Adapun beberapa fitur yang ada di aplikasi TaskMania adalah sebagai berikut :
 - **Video Penjelasan**
 
   Untuk penjelasan yang lebih detail terkait fitur aplikasi, berikut adalah video penjelasan yang telah diupload ke youtube :
+
+  https://youtu.be/d1lhxXC0w74
