@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task Mania</string>
+    <string name="add_button">Add Button</string>
+    <string name="search_tasks">Search Tasks</string>
+    <string name="sort_action">Sort Tasks</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="sad_face_icon">Sad Face Icon</string>
+    <string name="empty_content">No Tasks Found</string>
+    <string name="empty_content_suggest">Create One by Clicking Add Button</string>
+    <string name="splash_title">Task Mania</string>
+    <string name="app_bar_text">Task Mania</string>
+    <string name="add_task">Add Task</string>
+</resources>
